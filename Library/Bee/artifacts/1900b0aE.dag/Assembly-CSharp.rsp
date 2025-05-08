@@ -382,7 +382,10 @@
 -analyzer:"D:/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Buttons/ButtonScaler.cs"
+"Assets/Scripts/Ebac/Core/Singleton/Singleton.cs"
 "Assets/Scripts/Screen/ScreenBase.cs"
+"Assets/Scripts/Screen/ScreenHelper.cs"
+"Assets/Scripts/Screen/ScreenManager.cs"
 "Assets/Scripts/Utils/Typper.cs"
 -langversion:9.0
 /deterministic
